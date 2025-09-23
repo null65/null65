@@ -1,4 +1,3 @@
 Hello all, thanks for visiting my GitHub profile :)
 My name is Jack B, Student studying computer science.
-Some possibly interesting projects at driverjack.co.uk
-Discord: driverjack1.0 @Charlie thats a referance by the way...
+Currently Looking for work experience in Digital Telecom, Tech, Data and Software Development
