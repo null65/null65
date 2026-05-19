@@ -6,7 +6,9 @@ Hi there 👋
 * 💬 Ask me about anything!
 * 📫 How to reach me: jack@radioforus.co.uk
 * ❤️ I love playing the drums and hanging out with friends
-My Interests:
+
+
+Some of My Interests:
   1. AllStarLink Enabled Repeaters
   2. Linux
   3. Server Managment
