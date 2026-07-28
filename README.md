@@ -1,10 +1,9 @@
 Hi there 👋
 * 👂 My name is Jack Brown
-* 🔭 I’m currently working on the RadioForUs Website & John Kinski's Page! (Author) 
-* 🌱 I’m currently learning Asterisk & PBX
-* 🤝 I’m looking to collaborate on any and all Amateur Radio Projects!
+* 🔭 I’m currently working on the RadioForUs Website, John Kinski's Page! (Author) and a Custom booking in system for Rockwell Hitec
+* 🌱 I’m currently learning Admin Managment
 * 💬 Ask me about anything!
-* 📫 How to reach me: jack@radioforus.co.uk
+* 📫 How to reach me: jack@radioforus.co.uk or j.brown@rockwellhitec.co.uk
 * ❤️ I love playing the drums and hanging out with friends
 
 
